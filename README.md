@@ -1,2 +1,4 @@
 # Data_Analysis
-Getting started with Data Analysis using python 
+In this Repository I have covered two libraries namely Pandas and Matplotlib using Python and Jupyter
+
+    
